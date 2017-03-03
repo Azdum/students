@@ -168,7 +168,9 @@
    * - 8
      - Казаков Роман
      - Azdum_
-     -
+     - |8.dz1.1|_ |8.dz1.2|_|8.dz1.3||8.dz1.4|
+     - |8.dz2.1-5|
+     - |8.dz3.1|
      -
      -
      -
@@ -512,6 +514,15 @@
 .. |6.dz1.2-4| replace:: 2-4
 .. _6.dz1.2-4: https://gist.github.com/yuuyuu04/825b8cc4ea948ed2f5842bb22ddb6b6a
 
+.. |8.dz1.1| replace:: 1
+.. _8.dz1.1: https://github.com/Azdum/myproject
+.. |8.dz1.2| replace:: 2
+.. _8.dz1.2: https://gist.github.com/Azdum/91c27d59ad762a34f511660619a25dd3
+.. |8.dz1.3| replace:: 3
+.. _8.dz1.3: https://gist.github.com/Azdum/1e489bb80513c330044e65e2b2be3226
+.. |8.dz1.4| replace:: 4
+.. _8.dz1.4: https://gist.github.com/Azdum/2ea2b7b7bfd7440daf229b3dde6442a2
+
 .. |10.dz1.1| replace:: 1
 .. _10.dz1.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
 .. |10.dz1.2-4| replace:: 2-4
@@ -579,6 +590,15 @@
 .. |5.dz2.1-5| replace:: 1-5
 .. _5.dz2.1-5: https://gist.github.com/Hasuni/d7d88abbd86c1fb9aa591463070fa554
 
+.. |8.dz2.1| replace:: 1
+.. _8.dz2.1: https://gist.github.com/Azdum/d77fc8b307fc6c242e55d9aab84d4087
+.. |8.dz2.2| replace:: 2
+.. _8.dz2.2: https://gist.github.com/Azdum/4f899a1abebe22b63c343b429807fdc2
+.. |8.dz2.3| replace:: 3
+.. _8.dz2.3: https://gist.github.com/Azdum/85bda8203fbc7466bffde3fea5393312
+.. |8.dz2.5| replace:: 5
+.. _8.dz2.5: https://gist.github.com/Azdum/900fec0f316372498fc5c1ed2b539f64
+
 .. |10.dz2.1| replace:: 1
 .. _10.dz2.1: https://github.com/Sergey16802/zadanie1/tree/master/myproject
 .. |10.dz2.2-5| replace:: 2-5
@@ -629,6 +649,9 @@
 
 .. |5.dz3.1| replace:: 1
 .. _5.dz3.1: https://github.com/Hasuni/hw3
+
+.. |8.dz3.1| replace:: 1
+.. _8.dz3.1: https://gist.github.com/Azdum/62b347c42643a5019c877db1e8109795
 
 .. |10.dz3.1| replace:: 1
 .. _10.dz3.1: https://github.com/Sergey16802/zadanie1/blob/master/myproject/wsgi.py
